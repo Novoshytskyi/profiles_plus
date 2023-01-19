@@ -1,0 +1,82 @@
+{
+    "textLanguage" : "Рус.",
+    
+    "textAppBar1" : "Заготовка и материал",
+    "textAppBar2" : "Профилирование",
+    "textAppBar3" : "Результаты расчета",
+
+
+    "cardAppBarText1" : "Параметры полосы",
+    "cardAppBarText2" : "Свойства материала",
+    "cardAppBarText3" : "Параметры профиля",
+    "cardAppBarText4" : "Настройки оборудования",
+    "cardAppBarText5" : "Концевые захваты (штампы)",
+    "cardAppBarText6" : "Профилирующие ролики",
+    "cardAppBarText7" : "Настройки оборудования",
+
+    "thicknessStripLabelText" : "Толщина полосы",
+    "thicknessStripValidatorText1" : "Толщина полосы не указана",
+    "thicknessStripValidatorText2" : "Введено не числовое значение",
+    "thicknessStripValidatorText3" :" Введено отрицательное значение",
+    "thicknessStripValidatorText4" : "Корректный диапазон 0,1...6,0 мм",
+
+    "widthStripLabelText" : "Ширина полосы",
+    "widthStripValidatorText1" : "Ширина полосы не указана",
+    "widthStripValidatorText2" : "Введено не числовое значение",
+    "widthStripValidatorText3" : "Введено отрицательное значение",
+    "widthStripValidatorText4" : "Корректный диапазон 10...1000 мм",
+
+    "elasticLimitLabelText" : "Предел текучести",
+    "elasticLimitValidatorText1" : "Предел текучести не указан",
+    "elasticLimitValidatorText2" : "Введено не числовое значение",
+    "elasticLimitValidatorText3" : "Введено отрицательное значение",
+    "elasticLimitValidatorText4" : "Корректный диапазон 50...350 МПа",
+
+    "elasticModulusLabelText" : "Модуль упругости",
+    "elasticModulusValidatorText1" : "Модуль упругости не указан",
+    "elasticModulusValidatorText2" : "Введено не числовое значение",
+    "elasticModulusValidatorText3" : "Введено отрицательное значение",
+    "elasticModulusValidatorText4" : "Корректный диапазон 0.5...3 ×10^5 МПа",
+
+    "relativeHardeningModulusLabelText" : "Отн. модуль упрочнения",
+    "relativeHardeningModulusValidatorText1" : "Отн. модуль упрочнения не указан",
+    "relativeHardeningModulusValidatorText2" : "Введено не числовое значение",
+    "relativeHardeningModulusValidatorText3" : "Введено отрицательное значение",
+    "relativeHardeningModulusValidatorText4" : "Корректный диапазон 0...0.2",
+
+    "profileAngleBettaLabelText" : "Угол между полками",
+    "profileAngleBettaValidatorText1" : "Угол между полками не указан",
+    "profileAngleBettaValidatorText2" : "Введено не числовое значение",
+    "profileAngleBettaValidatorText3" : "Введено отрицательное значение",
+    "profileAngleBettaValidatorText4" : "Корректный диапазон 5...175°",
+
+    "profileRadiusLabelText" : "Внутренний радиус",
+    "profileRadiusValidatorText1" : "Внутренний радиус не указан",
+    "profileRadiusValidatorText2" : "Введено не числовое значение",
+    "profileRadiusValidatorText3" : "Введено отрицательное значение",
+    "profileRadiusValidatorText4" : "Внутренний радиус - не менее 5-и толщин",
+
+    "relativeTensileForceLabelText" : "Отн. напряжения растяжения",
+    "relativeTensileForceValidatorText1" : "Отн. напряжения растяжения не указаны",
+    "relativeTensileForceValidatorText2" : "Введено не числовое значение",
+    "relativeTensileForceValidatorText3" : "Введено отрицательное значение",
+    "relativeTensileForceValidatorText4" : "Корректный диапазон 0...0.99",
+
+    "frictionCoefficientLabelText" : "Коэффициент трения",
+    "frictionCoefficientValidatorText1" : "Коэффициент трения не указан",
+    "frictionCoefficientValidatorText2" : "Введено не числовое значение",
+    "frictionCoefficientValidatorText3" : "Введено отрицательное значение",
+    "frictionCoefficientValidatorText4" : "Корректный диапазон 0.05...0.25",
+
+    "resultTensileForceLabelText" : "Сила растяжения полосы",
+    "resultStampForceLabelText" : "Сила прижима концевых участков",
+    "stampRadiusLabelText" : "Внутренний радиус изгиба",
+    "stampAngleBettaLabelText" : "Угол между полками",
+    "rollerRadiusLabelText" : "Внутренний радиус изгиба",
+    "rollerAngleBettaLabelText" : "Угол между полками",
+
+    "routeButtonText" : "ПРОДОЛЖИТЬ ВВОД",
+    "calculationButtonText" : "ПРОИЗВЕСТИ РАСЧЕТ",
+    "resetButtonText" : "Сброс всех данных",
+    "routeBackButtonText" : "Произвести новый расчет"
+}

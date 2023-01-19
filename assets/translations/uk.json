@@ -1,0 +1,81 @@
+{
+    "textLanguage" : "Укр.",
+    
+    "textAppBar1" : "Заготовка та матеріал",
+    "textAppBar2" : "Профілювання",
+    "textAppBar3" : "Результати розрахунку",
+
+    "cardAppBarText1" : "Параметри штаби",
+    "cardAppBarText2" : "Властивості матеріалу",
+    "cardAppBarText3" : "Параметри профілю",
+    "cardAppBarText4" : "Налаштування устаткування",
+    "cardAppBarText5" : "Кінцеві затискачі (штампи)",
+    "cardAppBarText6" : "Профілювальні ролики",
+    "cardAppBarText7" : "Налаштування устаткування",
+
+    "thicknessStripLabelText" : "Товщина штаби",
+    "thicknessStripValidatorText1" : "Товщина штаби не вказана",
+    "thicknessStripValidatorText2" : "Введено не числове значення",
+    "thicknessStripValidatorText3" : "Введено від'ємне значення",
+    "thicknessStripValidatorText4" : "Коректний діапазон 0,1...6,0 мм",
+
+    "widthStripLabelText" : "Ширина штаби",
+    "widthStripValidatorText1" : "Ширина штаби не вказана",
+    "widthStripValidatorText2" : "Введено не числове значення",
+    "widthStripValidatorText3" : "Введено від'ємне значення",
+    "widthStripValidatorText4" : "Коректний діапазон 10...1000 мм",
+
+    "elasticLimitLabelText" : "Границя текучості",
+    "elasticLimitValidatorText1" : "Границю текучості не вказано",
+    "elasticLimitValidatorText2" : "Введено не числове значення",
+    "elasticLimitValidatorText3" : "Введено від'ємне значення",
+    "elasticLimitValidatorText4" : "Коректний діапазон 50...350 МПа",
+
+    "elasticModulusLabelText" : "Модуль пружності",
+    "elasticModulusValidatorText1" : "Модуль пружності не вказано",
+    "elasticModulusValidatorText2" : "Введено не числове значення",
+    "elasticModulusValidatorText3" : "Введено від'ємне значення",
+    "elasticModulusValidatorText4" : "Коректний діапазон 0.5...3 ×10^5 МПа",
+
+    "relativeHardeningModulusLabelText" : "Відн. модуль зміцнення",
+    "relativeHardeningModulusValidatorText1" :"Відн. модуль зміцнення не вказано",
+    "relativeHardeningModulusValidatorText2" : "Введено не числове значення",
+    "relativeHardeningModulusValidatorText3" : "Введено від'ємне значення",
+    "relativeHardeningModulusValidatorText4" : "Коректний діапазон 0...0.2",
+
+    "profileAngleBettaLabelText" : "Кут між полицями",
+    "profileAngleBettaValidatorText1" : "Кут між полицями не вказано",
+    "profileAngleBettaValidatorText2" : "Введено не числове значення",
+    "profileAngleBettaValidatorText3" : "Введено від'ємне значення",
+    "profileAngleBettaValidatorText4" : "Коректний діапазон 5...175°",
+
+    "profileRadiusLabelText" : "Внутрішній радіус",
+    "profileRadiusValidatorText1" : "Внутрішній радіус не вказано",
+    "profileRadiusValidatorText2" : "Введено не числове значення",
+    "profileRadiusValidatorText3" : "Введено від'ємне значення",
+    "profileRadiusValidatorText4" : "Внутрішній радіус - не менше 5-ти товщин",
+
+    "relativeTensileForceLabelText" : "Відн. напруження розтягу",
+    "relativeTensileForceValidatorText1" : "Відн. напруження розтягу не вказані",
+    "relativeTensileForceValidatorText2" : "Введено не числове значення",
+    "relativeTensileForceValidatorText3" : "Введено від'ємне значення",
+    "relativeTensileForceValidatorText4" : "Коректний діапазон 0...0.99",
+
+    "frictionCoefficientLabelText" : "Коефіцієнт тертя",
+    "frictionCoefficientValidatorText1" : "Коефіцієнт тертя не вказано",
+    "frictionCoefficientValidatorText2" : "Введено не числове значення",
+    "frictionCoefficientValidatorText3" : "Введено від'ємне значення",
+    "frictionCoefficientValidatorText4" : "Коректний діапазон 0.05...0.25",
+
+    "resultTensileForceLabelText" : "Сила розтягу штаби",
+    "resultStampForceLabelText" : "Сила затиску кінцевих ділянок",
+    "stampRadiusLabelText" : "Внутрішній радіус згину",
+    "stampAngleBettaLabelText" : "Кут між полицями",
+    "rollerRadiusLabelText" : "Внутрішній радіус згину",
+    "rollerAngleBettaLabelText" : "Кут між полицями",
+
+    "routeButtonText" : "ПРОДОВЖИТИ",
+    "calculationButtonText" : "ПРОВЕСТИ РОЗРАХУНОК",
+    "resetButtonText" : "Стерти всі дані",
+    "routeBackButtonText" : "Провести новий розрахунок"
+}
